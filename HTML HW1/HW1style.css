@@ -1,0 +1,47 @@
+/* CSS Document */
+
+h1 {color: #A30576;} 
+td.yellow {color: yellow;}
+td.hm {background-color: #191970}
+td.hl {background-color: #7D83A5; color: white; border-right: solid black; border-left: solid black; font-family: arial} 
+td.hm {color: yellow;}
+td.hm {text-align: center;}
+td.hl {text-align: center; width: 12.5%}
+
+
+th.fs {font-family: sans-serif; font-weight: bold; letter-spacing: 0.3em}
+td.fs {font-family: sans-serif}
+td.fs {font-weight: bold}
+td.fs {letter-spacing: 0.2em}
+td.fs {font-family: sans-serif font-weight: bold letter-spacing: 0.2em} 
+th.ti {text-indent: 3em}
+th.paddingLeft {padding-left: 120px}
+th.mission {padding-left: 120px; font-family: sans-serif; font-weight: bold; letter-spacing: 0.2em}
+caption.side {text-align: left; caption-side: bottom; padding-left: 120px}
+table.adjust {padding-right: 120px}
+.highlight {color: blue; font-weight: bold;}
+.highlightB {color: #876E4B; font-weight: bold;}
+tr.color{background-color: #DDDDFF;}
+.overline {text-decoration: overline}
+
+table.padLeft {padding-left: 118px}
+table.color1 {background-image: linear-gradient(to top, rgba(255,235,204,0), rgba(255,235,204,1)); }
+table.color2 {background-image: linear-gradient(to bottom, #9300ff, #FFB6C1); }
+table.color3 {background-color: #FFB6C1;}
+table.colorB {color: #677FA3}
+table.borderW {margin-right: 50px}
+td.paddingLeft {padding-left: 120px}
+td.newPadleft {padding-left: 120px; height: 100px;}
+p.fontweight {font-weight: normal}
+
+
+.latestNews {font-family: sans-serif; font-weight: bold; letter-spacing: 0.3em}
+tr.adjustW {height: 100px;}
+.lighter {font-style: italic; color: grey;}
+.pinkborder {border: 3.5px solid #B832AB}
+.greyborder {border: 2px solid #D09DAB}
+table.menuBorder {border: 2px solid black}
+.dottedBorder {border: 2px dashed red}
+
+
+td.banner {color: yellow;}
